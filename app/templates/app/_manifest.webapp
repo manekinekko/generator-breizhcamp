@@ -1,0 +1,28 @@
+{
+  "name": "<%= appName %>",
+  "version": "<%= appVersion %>",
+  "description": "<%= appDescription %>",
+  "launch_path": "/index.html",
+  "permissions": {
+    "storage": {
+      "description": "Required for storing and retrieving notes."
+    },
+    "video-capture": {
+      "description": "Obtain MediaStream from video input devices, e.g. camera. This is needed to allow  video capture in Firefox OS 1.4+."
+    },
+    "push": {
+      "description": "Enable an app to wake up to receive notification."
+    },
+    "geolocation": {
+      "description": "Obtain the current location of the user."
+    },
+    "contacts": {
+      "description": "Add, read, or modify contacts from the address book on the device and read contacts from the SIM."
+    }
+  },
+  "developer": {},
+  "icons": {
+    "60": "/style/icons/icon_60.png",
+    "128": "/style/icons/icon_128.png"
+  }
+}

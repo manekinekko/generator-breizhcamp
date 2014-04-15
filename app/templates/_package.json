@@ -1,0 +1,6 @@
+{
+  "name": "<%= appName %>",
+  "description": "<%= appDescription %>",
+  "version": "<%= appVersion %>",
+  "dependencies": {}
+}
