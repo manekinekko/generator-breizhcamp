@@ -1,5 +1,4 @@
-# generator-breizhcamp [![Build Status](https://secure.travis-ci.org/manekinekko/generator-siiffos.png?branch=master)](https://travis-ci.org/manekinekko/generator-siiffos)
-
+# generator-breizhcamp
 > [Yeoman](http://yeoman.io) generator
 
 
