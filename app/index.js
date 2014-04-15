@@ -5,7 +5,7 @@ var yeoman = require('yeoman-generator');
 var chalk = require('chalk');
 
 
-var SiiffosGenerator = yeoman.generators.Base.extend({
+var BreizhcampGenerator = yeoman.generators.Base.extend({
 
 
   // these functions are invoked in this order
@@ -93,4 +93,4 @@ var SiiffosGenerator = yeoman.generators.Base.extend({
 
 });
 
-module.exports = SiiffosGenerator;
+module.exports = BreizhcampGenerator;

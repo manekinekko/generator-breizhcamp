@@ -1,4 +1,4 @@
-# generator-siiffos [![Build Status](https://secure.travis-ci.org/manekinekko/generator-siiffos.png?branch=master)](https://travis-ci.org/manekinekko/generator-siiffos)
+# generator-breizhcamp [![Build Status](https://secure.travis-ci.org/manekinekko/generator-siiffos.png?branch=master)](https://travis-ci.org/manekinekko/generator-siiffos)
 
 > [Yeoman](http://yeoman.io) generator
 
@@ -26,13 +26,13 @@ Yeoman travels light. He didn't pack any generators when he moved in. You can th
 To install generator-siiffos from npm, run:
 
 ```
-$ npm install -g generator-siiffos
+$ npm install -g generator-breizhcamp
 ```
 
 Finally, initiate the generator:
 
 ```
-$ yo siiffos
+$ yo breizhcamp
 ```
 
 ### Getting To Know Yeoman

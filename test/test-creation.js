@@ -3,14 +3,14 @@
 var path = require('path');
 var helpers = require('yeoman-generator').test;
 
-describe('siiffos generator', function () {
+describe('breizhcamp generator', function () {
   beforeEach(function (done) {
     helpers.testDirectory(path.join(__dirname, 'temp'), function (err) {
       if (err) {
         return done(err);
       }
 
-      this.app = helpers.createGenerator('siiffos:app', [
+      this.app = helpers.createGenerator('breizhcamp:app', [
         '../../app'
       ]);
       done();
